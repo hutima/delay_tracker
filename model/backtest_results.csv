@@ -1,0 +1,2 @@
+target_type,hours_to_departure,n,brier_score,log_loss,calibration_error,accuracy,sensitivity,specificity,precision,npv,status
+PAIR,4,0,,,,,,,,,unavailable_no_verified_outcomes

@@ -1,0 +1,7 @@
+{
+  "retrieved_at": "2026-08-11T12:00:00Z",
+  "observations": [],
+  "acquisition_status": "unavailable",
+  "reason": "Internet research endpoint returned HTTP 401; no unauthenticated result was treated as evidence.",
+  "candidate_primary_sources": ["https://www.jetblue.com/flight-tracker-and-status", "https://www.singaporeair.com/", "https://www.weather.gov/", "https://www.spc.noaa.gov/", "https://nasstatus.faa.gov/"]
+}

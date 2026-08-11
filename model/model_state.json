@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0-prior-only",
+  "generated_at": "2026-08-11T12:00:00Z",
+  "kind": "regularized logistic prior-only fallback",
+  "coefficients": {
+    "cancel_intercept": -3.55,
+    "severe_delay_intercept": -3.1,
+    "sq23_intercept": -4.0,
+    "pair_intercept": -2.72
+  },
+  "warning": "Not fitted: no timestamp-verifiable training observations are present."
+}
